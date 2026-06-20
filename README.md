@@ -20,7 +20,8 @@ I’m an aspiring computer scientist with hands-on experience in machine learnin
   Coursework: Physics, Chemistry, Mathematics (Pure & Statistics), Information Technology, English
 - **MET Rishikul Vidyalaya** — IGCSE (2022–2024)  
   Coursework: Physics, Chemistry, Mathematics, ICT, Economics, Business Studies, English, French  
-  SAT: **1530/1600** (790 Math, 740 Verbal)
+
+- **SAT**: 1530/1600 (790 Math, 740 Verbal)
 
 ---
 
