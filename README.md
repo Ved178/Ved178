@@ -6,7 +6,6 @@ Incoming BSc Computer Science (University of Wisconsin–Madison • 2026–2030
 - ✉️ ved.kantawala@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ved178
 - GitHub: https://github.com/Ved178
-- Resume: Ved_Kantawala_Resume.html
 
 ---
 
