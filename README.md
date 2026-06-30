@@ -2,8 +2,8 @@
 
 Incoming BSc Computer Science (University of Wisconsin–Madison • 2026–2030) — Machine learning, computer vision, and data science enthusiast. Currently building ML systems and exploring agentic AI workflows.
 
-- 📍 Mumbai, India
-- ✉️ ved.kantawala@gmail.com
+- Mumbai, India
+- ved.kantawala@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ved178
 - GitHub: https://github.com/Ved178
 
